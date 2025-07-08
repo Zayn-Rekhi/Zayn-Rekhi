@@ -1,16 +1,23 @@
-## Hi there 👋
+# Zayn Rekhi
 
-<!--
-**Zayn-Rekhi/Zayn-Rekhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Applied Mathematics @ Purdue University**  
+Class of 2027
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Languages:** Python, C++, C, Java, JavaScript, SQL, HTML/CSS
+- **Frameworks/Tools:** Django, React, Flask, PyTorch, CUDA, AWS, Redis, Docker, SpringBoot, Flutter
+- **Concepts:** Full Stack Development, Deep Learning, Cloud, Networking, DevOps, LLMs, Data Analysis, Computer Vision
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/zayn-rekhi-a8b742232)
+- [GitHub](https://github.com/Zayn-Rekhi)
+- [Devpost](https://devpost.com/Zayn-Rekhi)
+- Email: zrekhi@purdue.edu
+
+---
