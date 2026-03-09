@@ -7,9 +7,10 @@ Class of 2027
 
 ### Technical Skills
 
-- **Languages:** Python, C++, C, Java, JavaScript, SQL, HTML/CSS
-- **Frameworks/Tools:** Django, React, Flask, PyTorch, CUDA, AWS, Redis, Docker, SpringBoot, Flutter
-- **Concepts:** Full Stack Development, Deep Learning, Cloud, Networking, DevOps, LLMs, Data Analysis, Computer Vision
+- **Languages:** Python, C++, C, Java, JavaScript, GoLang, TypeScript, SQL, HTML/CSS, Dart, Flutter, UNIX/Linux OS, Shell
+- **Tools:** Git, Django, React, SpringBoot, Flask, PyTorch, Tensorflow, GraphQL, CUDA, AWS, NumPy, Redis, Docker, Postgres
+- **Concepts:** CI/CD, REST APIs, Web Dev, Deep Learning, Cloud, Networking, LLMs, Computer Vision, Agile, Data Analysis
+- **Interests** Poker, Blues/Jazz Guitar, Running, Weightlifting
 
 ---
 
