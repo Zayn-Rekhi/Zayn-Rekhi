@@ -5,7 +5,7 @@ Class of 2027
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **Languages:** Python, C++, C, Java, JavaScript, SQL, HTML/CSS
 - **Frameworks/Tools:** Django, React, Flask, PyTorch, CUDA, AWS, Redis, Docker, SpringBoot, Flutter
@@ -13,7 +13,7 @@ Class of 2027
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/zayn-rekhi-a8b742232)
 - [GitHub](https://github.com/Zayn-Rekhi)
