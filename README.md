@@ -1,7 +1,6 @@
 # Zayn Rekhi
 
 **Computer Science & Applied Mathematics @ Purdue University**  
-Class of 2027
 
 ---
 
