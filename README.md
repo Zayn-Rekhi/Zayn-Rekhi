@@ -1,6 +1,6 @@
 # Zayn Rekhi
 
-**Computer Science & Applied Mathematics @ Purdue University**  
+**Computer Science & Mathematics @ Purdue University**  
 
 ---
 
